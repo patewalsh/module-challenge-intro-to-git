@@ -1,5 +1,5 @@
 # Git for Web Development Project
-
+Patrick Walsh
 Welcome to Day 1 at BloomTech! Today we are going to spend some time setting up your computer and learning the tools that you will be using to complete this program. Just like your first day at a dev job, you will need to get your environment set up to build and run your code. Before you are able to complete any of these steps, you will need to install all [required programs](https://www.notion.so/bloomtech/4da087ea26dd441bbc8030198811150d?v=5c67662450d14d64b0b2b6d32b841fee) then set up your SSH key and attach it to your GitHub account. For the SSH key, please watch the video on the [BloomTech Git Workflow](https://bloomtech.notion.site/bloomtech/BloomTech-Git-Flow-Step-by-step-269f68ae3bf64eb689a8328715a179f9) to see how to do that.
 
 Complete the set up tasks and then get started on the research questions found inside the repository. If you are using a Windows machine, please complete the `pc.md` file, if you are using Mac or Linux please complete `mac.md`.
